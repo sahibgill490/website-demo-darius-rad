@@ -1,7 +1,3 @@
-# Darius Rad — Website Concept
+# Darius Rad website concept
 
-Independent website concept preview created for Darius Rad. This is not the business’s live website.
-
-## GitHub Pages
-
-After pushing this repository, open **Settings → Pages**, select **Deploy from a branch**, and choose **main / (root)**.
+Individually designed Dutch local-service website concept for **Darius Rad** in **Rotterdam**. The deployed demo is a concept only and uses no fabricated reviews, testimonials, operational promises, or unverified service details.
